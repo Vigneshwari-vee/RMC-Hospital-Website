@@ -1,0 +1,18 @@
+
+.navbar-toggler{
+    z-index: 9999;
+    background-color: white;
+    border: 1px solid #ccc;
+}
+
+@media (max-width: 768px) {
+  .navbar-second {
+    margin-top: 130px;
+  }
+}
+h1,p{
+    text-align: center;
+  
+}
+
+
